@@ -25,7 +25,7 @@
         will-change: width;
         opacity: .8;
         border: 1px solid;
-        border-color: var(--textColor);
+        border-color: black;
         background:linear-gradient(to bottom left, transparent calc(50% - 1px), black calc(50% - 1px), black 50%, transparent 50%);
 
         &--right {
