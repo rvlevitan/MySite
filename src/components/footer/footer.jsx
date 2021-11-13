@@ -38,7 +38,7 @@ const Footer = () => {
     if (!touch) {
 
     const easing = BezierEasing(0.75, 0, 0.25, 1);
-    const length = 0.5;
+    const length = 0;
 
     const slides = document.getElementsByClassName('footer__link-container');
     for (let i = 0; i < slides.length; i += 1) {
