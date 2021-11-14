@@ -16,7 +16,7 @@ export default function BlogIndex({ data, location }) {
   return (
 
     <Layout location={locations} title={siteTitle}>
-      <SEO title="All posts" />
+      <SEO title="Design Director" />
       <Helmet>
         <body className="home" />
       </Helmet>
