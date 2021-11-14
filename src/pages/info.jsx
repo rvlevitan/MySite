@@ -73,7 +73,7 @@ const AboutPage = ({ data, location }) => {
   return (
 
     <Layout location={location} title={siteTitle}>
-      <SEO title="About" />
+      <SEO title="Info" />
       <Helmet>
         <body id="info-page" />
       </Helmet>
