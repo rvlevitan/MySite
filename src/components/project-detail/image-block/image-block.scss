@@ -24,8 +24,7 @@
         box-sizing: border-box;
         will-change: width;
         opacity: .8;
-        border: 1px solid;
-        border-color: black;
+        border: 1px solid #000;
         background:linear-gradient(to bottom left, transparent calc(50% - 1px), black calc(50% - 1px), black 50%, transparent 50%);
 
         &--right {
