@@ -4,14 +4,6 @@
     --font: Neue Montreal, Helvetica-Neue, Helvetica, Arial, sans-serif;
 }
 
-@font-face {
-  font-family: 'Neue Monteal';
-  src: url('src/styles/PPNeueMontreal-Regular.woff2') format('woff2'),
-       url('src/styles/PPNeueMontreal-Regular.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-}
-
 @import "../styles/mixins/px-to-rem.scss";
 @import "../styles/mixins/breakpoints.scss";
 @import "../styles/global/typography.scss";
