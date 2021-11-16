@@ -1,7 +1,7 @@
 @font-face {
     font-family: Neue Montreal;
-    src: url('https://github.com/rvlevitan/MySite/blob/87ef0a968ba8ff8f892addc386f386f07277e006/src/styles/Fonts/PPNeueMontreal-Regular.woff2') format('woff2'),
-         url('https://github.com/rvlevitan/MySite/blob/87ef0a968ba8ff8f892addc386f386f07277e006/src/styles/Fonts/PPNeueMontreal-Regular.woff') format('woff');
+    src: local('../Fonts/PPNeueMontreal-Regular.woff2') format('woff2'),
+         local('../Fonts/PPNeueMontreal-Regular.woff') format('woff');
     font-weight: 450;
   }
 
