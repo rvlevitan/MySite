@@ -10,11 +10,6 @@
        url('PPNeueMontreal-Regular.woff') format('woff');
   font-weight: normal;
   font-style: normal;
-
-
-* {
-  -webkit-font-smoothing: antialiased;
-	-moz-osx-font-smoothing: grayscale;
 }
 
 @import "../styles/mixins/px-to-rem.scss";
