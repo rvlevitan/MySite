@@ -1,14 +1,8 @@
 @font-face {
     font-family: Neue Montreal;
-<<<<<<< HEAD
-    src: url('fonts/PPNeueMontreal-Regular.woff2') format('woff2');
-    src: url('fonts/PPNeueMontreal-Regular.woff') format('woff');
-=======
-    src: url("../styles/fonts/PPNeueMontreal-Regular.woff2") format('woff2');
-    src: url("../styles/fonts/PPNeueMontreal-Regular.woff") format('woff');
->>>>>>> db9b10fa0f9b58db703eecbc5b19dff71a6f2bf7
-    font-weight: 450;
-    
+    src: url('styles/Fonts/PPNeueMontreal-Regular.woff2') format('woff2');
+    src: url('styles/Fonts/PPNeueMontreal-Regular.woff') format('woff');
+    font-weight: Regular;
 
 }
 
