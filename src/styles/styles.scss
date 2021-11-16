@@ -4,6 +4,14 @@
     --font: Neue Montreal, Helvetica-Neue, Helvetica, Arial, sans-serif;
 }
 
+@font-face {
+  font-family: 'pp_neue_montreal_ttregular';
+  src: url('PPNeueMontreal-Regular.woff2') format('woff2'),
+       url('PPNeueMontreal-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+
 * {
   -webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
