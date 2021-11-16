@@ -1,3 +1,10 @@
+@font-face {
+    font-family: Neue Montreal;
+    src: url('styles/Fonts/PPNeueMontreal-Regular.woff2') format('woff2'),
+         url('styles/Fonts/PPNeueMontreal-Regular.woff') format('woff');
+    font-weight: 450;
+  }
+
 h1, h2, h3, h4, h5, p {
     margin:0;
     padding:0;
