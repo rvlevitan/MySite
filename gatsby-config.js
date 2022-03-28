@@ -39,7 +39,7 @@ module.exports = {
             options: {
               sharpMethod: 'fluid',
               maxWidth: 3080,
-              maxHeight: 2000,
+              maxHeight: 20000,
               quality: 100,
               webpQuality: 100,
             }
